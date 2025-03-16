@@ -1,0 +1,2 @@
+org.badis.ext.DaoImplV2
+org.badis.metier.MetierImpl
